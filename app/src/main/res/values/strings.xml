@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Stone papper and scissors</string>
+    <string name="you">You</string>
+    <string name="comp">Comp</string>
+    <string name="game">Game</string>
+    <string name="scissor">Scissor</string>
+    <string name="paper">Paper</string>
+    <string name="stone">Stone</string>
+    <string name="_1">0</string>
+    <string name="_0">0</string>
+    <string name="colon">:</string>
+    <string name="Comp_score" />
+    <string name="Your_Score" />
+    <string name="welcome">WELCOME</string>
+    <string name="stone_paper_scissors">Stone . Paper . Scissors</string>
+    <string name="select_number_of_rounds">Select number of rounds</string>
+    <string name="start">Start</string>
+    <string name="_3">3</string>
+    <string name="_5">5</string>
+    <string name="_7">7</string>
+    <string name="result">Result</string>
+    <string name="emoji">☹️</string>
+    <string name="you_lost">You Lost</string>
+    <string name="don_t_be_sad">Don\'t be Sad</string>
+    <string name="play_again">Play Again</string>
+</resources>
